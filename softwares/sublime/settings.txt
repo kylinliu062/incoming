@@ -1,0 +1,19 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"find_selected_text": true,
+	"font_size": 20,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"match_brackets": false,
+	"match_brackets_angle": false,
+	"match_brackets_braces": false,
+	"match_brackets_content": false,
+	"match_brackets_square": false,
+	"match_tags": false,
+	"preview_on_click": false,
+	"show_encoding": true,
+	"tab_completion": false,
+	"index_files": true,
+}
